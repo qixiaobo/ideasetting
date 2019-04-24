@@ -1,0 +1,2 @@
+# ideasetting
+idea setting repo
